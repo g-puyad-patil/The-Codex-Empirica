@@ -10,7 +10,7 @@ Welcome to the **Codex Empirica**. This is my centralized technical archive. It 
 
 This Codex is currently structured into two primary pillars of data expertise:
 
-* ### 🛡️ [Module I: Structural Logic (SQL)](./01-Structural-Logic-SQL)
+### 🛡️ [Module I: Structural Logic (SQL)](./01-Structural-Logic-SQL)
 * **Featured:** Northwind Traders Performance Audit (Joins & Aggregations).
 
 ### ⚙️ [Module II: Systemic Wrangling Engine (Python)](./02-Systemic-Wrangling-Engine)
