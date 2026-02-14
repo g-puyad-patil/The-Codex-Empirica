@@ -10,6 +10,9 @@ Welcome to the **Codex Empirica**. This is my centralized technical archive. It 
 
 This Codex is currently structured into two primary pillars of data expertise:
 
+### 🏛️ [Module 0: SQL Foundations](./00-SQL-Foundations)
+* **Featured:** Basic Syntax & Retrieval Logic (The "Genesis" of Structural Logic).
+
 ### 🛡️ [Module I: Structural Logic (SQL)](./01-Structural-Logic-SQL)
 * **Featured:** Northwind Traders Performance Audit (Joins & Aggregations).
 
@@ -20,7 +23,7 @@ This Codex is currently structured into two primary pillars of data expertise:
 * **Featured:** Query Performance Profiling (Indexing & B-Tree Optimization).
 
 ### 📉 [Module IV: Statistical Inference (Python)](./04-Statistical-Inference-Python)
-* **Featured:** World Bank Science & Tech Analysis (T-Tests & Correlation Matrices).
+* **Featured:** World Bank Science & Tech Analysis (T-Tests & Correlation).
 ---
 
 ## 🛠️ The Technical Stack
