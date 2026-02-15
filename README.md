@@ -20,10 +20,13 @@ This Codex is currently structured into two primary pillars of data expertise:
 * **Featured:** Empirical Synthesis Pipeline (Pandas & ETL).
 
 ### ⚡ [Module III: Algorithmic Optimization (SQL)](./03-Algorithmic-Optimization-SQL)
-* **Featured:** Query Performance Profiling (Indexing & B-Tree Optimization).
+* **Featured:** Query Performance Profiling & Indexing logic.
 
 ### 📉 [Module IV: Statistical Inference (Python)](./04-Statistical-Inference-Python)
-* **Featured:** World Bank Science & Tech Analysis (T-Tests & Correlation).
+* **Featured:** World Bank Science & Tech Analysis (T-Tests).
+
+### 🔬 [Module V: Analytical Methodologies (Python)](./05-Analytical-Methodologies-Python)
+* **Featured:** Exploratory vs. Confirmatory Analysis (EDA/CDA) using Plotly.
 ---
 
 ## 🛠️ The Technical Stack
